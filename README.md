@@ -13,7 +13,7 @@ Student developer from Egypt, passionate about programming and technology. I lov
 ## Projects
 
 - **[Tansik Egypt](https://tansik-egy.gpa-egy.workers.dev/)** ([code](https://github.com/Abedd-001/tansik-egy)): GPA calculator and Egyptian Tansik estimator for American Diploma, IGCSE, and IB students, with a table of government faculties the total qualifies for.
-- - **Dawrak** ([code](https://github.com/Abedd-001/dawrak-clinic-queue)): real-time clinic queue system for single and multi-doctor clinics. Patients book by QR code and follow their turn live, with a waiting-room display and Firebase security rules covered by 149 tests.
+- **Dawrak** ([code](https://github.com/Abedd-001/dawrak-clinic-queue)): real-time clinic queue system for single and multi-doctor clinics. Patients book by QR code and follow their turn live, with a waiting-room display and Firebase security rules covered by 149 tests.
 
 ## Contact
 
